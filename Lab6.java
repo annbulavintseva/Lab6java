@@ -1,6 +1,6 @@
-package Lab_6;
+package Lab6;
 
-public class Lab62 {
+public class Lab6 {
     public static void main(String[] args) {
         int number = 21;
         String binaryString = intToBinaryString(number);
