@@ -1,6 +1,6 @@
-package Lab_6;
+package Lab6;
 
-public class Lab68 {
+public class Lab61 {
     public static void main(String[] args) {
         String input = "The user with the nickname koala757677 this month wrote 3 times more " +
                 "comments than the user with the nickname croco181dile920 4 months ago";
